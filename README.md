@@ -15,4 +15,4 @@ I have recently graduated with a Bachelor's degree in Communication and Computer
 * **☁️ AWS Hands-On Cloud Labs:** Deployed secure and highly available infrastructures on AWS Console.
 
 ---
-📫 **How to reach me:** [norhaneid096@gmail.com](mailto:norhaneid096@gmail.com) | [LinkedIn](www.linkedin.com/in/norhan-eid-892675331)
+📫 **How to reach me:** [norhaneid096@gmail.com](mailto:norhaneid096@gmail.com) | [LinkedIn](https://www.linkedin.com/in/norhan-eid-892675331)
